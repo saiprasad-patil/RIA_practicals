@@ -1,12 +1,9 @@
-# Experiment 5: Exploring VLabs for robotic simulation
+## Experiment 5: Exploring VLabs for robotic simulation
 
 **Aim:**   
 Learn about the geometric relationship between input and output parameters, formation of transformation matrix and simulate the movemaster RM-501 robotic arm and PUMA 560
 
-
-
 **Theory:**
-
 Mitsubishi Movemaster RM-501 specfications:
 - 5 rotational joints, 5 degree of freedom
 - Weight: 27 kg
@@ -20,15 +17,12 @@ Mitsubishi Movemaster RM-501 specfications:
     - Wrist bend: +90 to -90
     - Wrist roll: +180 to -180
 - Workspace envelope is a vertical hemisphere  
-![Movemaster](https://mr-iitkgp.vlabs.ac.in/exp/movemaster/images/robotkinematics.png "PUMA560")
-
 
 PUMA 560 specifications:
 - 6 degree of freedom, all rotational joints
 - Weight: 54 kg
 - Reach: 864 mm
 - Payload: 2.5 kg  
-![PUMA560](https://mr-iitkgp.vlabs.ac.in/exp/forward-kinematics/images/puma560-kM.jpg "PUMA560")
 
 **Learnings:**  
 - Learned about the specifications of the Mitsubishi Movemaster RM-501 and PUMA 560 robots

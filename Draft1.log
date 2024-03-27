@@ -1,0 +1,8 @@
+Questionable use of curly braces in "r4 n003 n004 {r}"
+    Error: undefined symbol in: "[r]"
+Circuit: * C:\Users\djsce.student\MATLAB\Projects\RIA_PSY\Draft1.asc
+
+Error on line 5 : r4 n003 n004 (r)
+	 Unable to find definition of model "r"
+Fatal Error: This circuit does not have a conduction path to ground!
+   Please flag a node as ground.

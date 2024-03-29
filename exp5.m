@@ -1,4 +1,4 @@
-% Saiprasad Patil 60001200090
+disp('Saiprasad Patil 60001200090');
 clc;
 
 Theta1 = input("Theta 1 = ");
